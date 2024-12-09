@@ -2,7 +2,7 @@ package ginsys_starter
 
 import (
 	"github.com/kordar/gocfg"
-	gocfgmodule "github.com/kordar/gocfg-load-module"
+	"github.com/kordar/gocfg-load-module"
 )
 
 func DestroyStarter() {
